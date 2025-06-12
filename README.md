@@ -8,7 +8,7 @@
 ---
 
 ## 💡 About Me  
-I'm a data analyst with 4+ years of experience working across sectors like public health, agriculture, and real estate development. I currently work at **Home Builders Research Inc.**, where I help builders and developers in Las Vegas make smarter decisions using data from housing trends and public records.
+I'm a data analyst with experience working across sectors like public health, agriculture, and real estate development. I currently work at **Home Builders Research Inc.**, where I help builders and developers in Las Vegas make smarter decisions using data from housing trends and public records.
 
 I’ve also supported major research projects implemented by Precise Trends Research & Consulting Limited, in collaboration with organizations like UNICEF, WFP, ILO, OXFAM and Marie Stopes Kenya turning raw survey data into actionable insights that drive sustainable development..
 
@@ -29,13 +29,23 @@ My superpowers include:
 - **Languages & Tools:** Python, SQL, Excel, Power BI, Jupyter Notebook, Tableau, Git/GitHub  
 - **Libraries & Frameworks:** Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn  
 - **Data Collection:** KoboToolbox, MS Forms, ODK(Open Data Kit) 
-- **Other Tools:** Trello, ClickUp, Slack ,Google Workspace
-- **Learning:** Machine Learning, APIs, Web Scraping, Model Evaluation   
+- **Collaboration:** Trello, ClickUp, Slack ,Google Workspace,MS Teams
+- **ML & Stats:** Linear/Logistic Regression, A/B Testing, Model Validation  
 
 ---
 
 ## 📌 Highlight Projects  
 Here are a few pinned projects you’ll find on my profile:
+[Aircraft Risk and Safety Analysis](https://github.com/Abishang21/Aircraft-Risks-Analysis)
+Analyzed aviation accident data to identify high-risk aircraft models, vulnerable flight phases, and safety trends. Delivered insights to guide purchasing decisions in the aviation sector.
+
+
+[Personalized Meal Type Prediction](https://github.com/Abishang21/Personalized-Meal-Type-Prediction)
+Built a classification model using Food.com data to predict meal types (e.g., breakfast, lunch, dessert) based on user preferences. Supports personalization for meal kit services.
+
+
+[Motor Vehicle Theft Analysis](https://github.com/Abishang21/Motor-Vehicle-Theft-Analysis)
+Explored 6 months of crime data to uncover theft patterns by time, region, and vehicle type. Presented insights through an interactive Power BI dashboard.
 
 
 ---
