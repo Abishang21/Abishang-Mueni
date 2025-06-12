@@ -3,7 +3,7 @@
 ![5](https://github.com/user-attachments/assets/cdb4bca9-fb3c-4325-bb44-d86406d72b13)
 
 🎯 **Data Analyst | Research Specialist | Data for Social Impact**  
-📍 Based in Kenya | 🌍 Working remotely with clients worldwide  
+🌍 Working remotely with clients worldwide  
 
 ---
 
@@ -43,7 +43,7 @@ Here are a few pinned projects you’ll find on my profile:
 ## 🌱 Fun Facts  
 - 🐓 I’m a **farmer at heart** — I raise chickens, goats, and cattle, and I grow my own vegetables 🌿  
 - 📚 I'm a **go-getter** who believes in showing up, learning fast, and creating value  
-- 📖 Favorite read? _“Good Girls Don’t Get the Corner Office”_ — a must-read for every ambitious woman!
+- 📖 Favorite read? _“Good Girls Don’t Get the Corner Office”_ — A must-read for every ambitious woman!
 
 ---
 
