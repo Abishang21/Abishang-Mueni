@@ -12,7 +12,7 @@ I'm a data analyst with 4+ years of experience working across sectors like publi
 
 I’ve also supported major research projects implemented by Precise Trends Research & Consulting Limited, in collaboration with organizations like UNICEF, WFP, ILO, OXFAM and Marie Stopes Kenya turning raw survey data into actionable insights that drive sustainable development..
 
-I'm passionate about using data to solve real-world problems and bring clarity to complexity. I believe the best insights are the ones that make a real impact—and that’s what drives my work.
+I'm passionate about using data to solve real-world problems and bring clarity to complexity. I believe the best insights are the ones that make a real impact and that’s what drives my work.
 
 ---
 
