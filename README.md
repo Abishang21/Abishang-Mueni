@@ -34,7 +34,7 @@ My superpowers include:
 
 ---
 
-## 📌 Highlight Projects  
+##  Highlight Projects  
 Here are a few pinned projects you’ll find on my profile:
 
 [Aircraft Risk and Safety Analysis](https://github.com/Abishang21/Aircraft-Risks-Analysis)
@@ -51,17 +51,17 @@ Explored 6 months of crime data to uncover theft patterns by time, region, and v
 
 ---
 
-## 🌱 Fun Facts  
-- 🐓 I’m a **farmer at heart** — I raise chickens, goats, and cattle, and I grow my own vegetables 🌿  
-- 📚 I'm a **go-getter** who believes in showing up, learning fast, and creating value  
-- 📖 Favorite read? _“Good Girls Don’t Get the Corner Office”_ — A must-read for every ambitious woman!
+##  Fun Facts  
+-  I’m a **farmer at heart** — I raise chickens, goats, and cattle, and I grow my own vegetables 🌿  
+-  I'm a **go-getter** who believes in showing up, learning fast, and creating value  
+-  Favorite read? _“Good Girls Don’t Get the Corner Office”_ — A must-read for every ambitious woman!
 
 ---
 
-## 🔍 What I’m Looking For  
-- 📌 Remote roles in: Data Analytics, Research Analytics, Entry-level Data Science  
-- 🤝 Collaborations with social impact teams, NGOs, or mission-driven tech companies  
-- 🧠 Opportunities to grow in: Machine Learning, Data Science, and Applied AI  
+##  What I’m Looking For  
+- Remote roles in: Data Analytics, Research Analytics, Entry-level Data Science  
+- Collaborations with social impact teams, NGOs, or mission-driven tech companies  
+- Opportunities to grow in: Machine Learning, Data Science, and Applied AI  
 
 ---
 
