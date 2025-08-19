@@ -39,11 +39,11 @@ Here are a few pinned projects you’ll find on my profile:
 
 [MaliYaLeo: Market-Price-Planning-Assistant-for-Kenyan-Consumers-and-Farmers](https://github.com/Abishang21/MaliYaLeo)
 
-Developed a data-driven solution to provide real-time and forecasted market prices for key food commodities in Kenya. Utilized ML models (Ridge Regression, Prophet, XGBoost, LSTM) to predict price trends 7 days in advance, enhancing decision-making for farmers, traders and households. Deployed via USSD and Web Dashboard for inclusive access even in rural areas without smartphones or internet.
+Collaborated on developing a data-driven solution to provide real-time and forecasted market prices for key food commodities in Kenya. Utilized ML models (Ridge Regression, Prophet, XGBoost, LSTM) to predict price trends 7 days in advance, enhancing decision-making for farmers, traders and households. Deployed via USSD and Web Dashboard for inclusive access even in rural areas without smartphones or internet.
 
 [AI-Powered Health Insurance Fraud Detection](https://github.com/Abishang21/AI-Powered-Health-Insurance-Fraud-Detection)
 
-Built an end-to-end pipeline for detecting Medicare fraud using unsupervised machine learning and explainable AI. Leveraged CMS datasets to identify suspicious billing patterns through anomaly detection and clustering, providing interpretable outputs to support audits and regulatory reporting.
+Collaborated on building an end-to-end pipeline for detecting Medicare fraud using unsupervised machine learning and explainable AI. Leveraged CMS datasets to identify suspicious billing patterns through anomaly detection and clustering, providing interpretable outputs to support audits and regulatory reporting.
 
 [Personalized Meal Type Prediction](https://github.com/Abishang21/Personalized-Meal-Type-Prediction)
 
