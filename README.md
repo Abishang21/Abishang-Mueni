@@ -8,34 +8,41 @@
 ---
 
 ## About Me  
-I'm a data analyst with experience working across sectors like public health, agriculture and real estate development. I currently work at **Home Builders Research Inc.**, where I help builders and developers in Las Vegas make smarter decisions using data from housing trends and public records.
+I'm a data analyst and researcher with experience working on projects in public health, gender & disability inclusion, food security, agriculture and housing.
 
-I’ve also supported major research projects implemented by Precise Trends Research & Consulting Limited, in collaboration with organizations like UNICEF, WFP, ILO, OXFAM and Marie Stopes Kenya turning raw survey data into actionable insights that drive sustainable development..
+Currently, I work at Home Builders Research Inc. (Las Vegas), where I analyze housing and construction datasets to help builders and developers make smarter decisions. Previously, I supported research and evaluation projects at Precise Trends Research & Consulting Ltd., working with partners like UNICEF, WFP, ILO, Oxfam and Marie Stopes Kenya to transform raw survey data into actionable insights for sustainable development.
 
-I'm passionate about using data to solve real-world problems and bring clarity to complexity. I believe the best insights are the ones that make a real impact and that’s what drives my work.
+For me, the best insights aren’t just numbers they’re the ones that inform better policies, empower communities and create lasting impact. That belief drives my work every day.
 
 ---
 
-My superpowers include:
-- Cleaning messy datasets using **Excel**, **Python (Pandas)**, and **SQL**
-- Visualizing trends in **Power BI**, **Excel Charts**, and **Tableau**
-- Applying foundational **machine learning** techniques
-- Cordinating large-scale, multi-county data collection and analysis
+My Superpowers:
+- Transforming messy datasets into clean, reliable insights using Excel, Python (Pandas) and SQL
+
+- Visualizing trends and stories through Power BI, Tableau, and Excel
+
+- Applying machine learning techniques (forecasting, classification, anomaly detection)
+
+- Coordinating large-scale, multi-country data collection and ensuring high data quality
 
 ---
 
 ##  Tech & Tools
 
-- **Languages & Tools:** Python, SQL, Excel, Power BI, Jupyter Notebook, Tableau, Git/GitHub  
+- **Languages & Tools:** Python, SQL, Excel, Power BI, Jupyter Notebook, Tableau,SPSS, Git/GitHub  
 - **Libraries & Frameworks:** Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn  
 - **Data Collection:** KoboToolbox, MS Forms, ODK(Open Data Kit) 
 - **Collaboration:** Trello, ClickUp, Slack ,Google Workspace,MS Teams
-- **ML & Stats:** Linear/Logistic Regression, A/B Testing, Model Validation  
+- **ML & Stats:** Linear/Logistic Regression, A/B Testing,Time-Series Forecasting, Model Validation  
 
 ---
 
 ##  Highlight Projects  
 Here are a few pinned projects you’ll find on my profile:
+
+[Aircraft Risk and Safety Analysis](https://github.com/Abishang21/Aircraft-Risks-Analysis)
+
+Conducted analysis of global aviation accident data to uncover safety risks and guide aircraft acquisition decisions. Processed accident records with Python (Pandas, Matplotlib, Seaborn) and built Tableau dashboards highlighting high-risk aircraft models, accident-prone flight phases and weather-related vulnerabilities. Findings equipped leadership with data-driven recommendations for safer fleet investments and proactive risk management.
 
 [MaliYaLeo: Market-Price-Planning-Assistant-for-Kenyan-Consumers-and-Farmers](https://github.com/Abishang21/MaliYaLeo)
 
@@ -43,31 +50,24 @@ Collaborated on developing a data-driven solution to provide real-time and forec
 
 [AI-Powered Health Insurance Fraud Detection](https://github.com/Abishang21/AI-Powered-Health-Insurance-Fraud-Detection)
 
-Collaborated on building an end-to-end pipeline for detecting Medicare fraud using unsupervised machine learning and explainable AI. Leveraged CMS datasets to identify suspicious billing patterns through anomaly detection and clustering, providing interpretable outputs to support audits and regulatory reporting.
-
-[Personalized Meal Type Prediction](https://github.com/Abishang21/Personalized-Meal-Type-Prediction)
-
-Built a classification model using Food.com data to predict meal types (e.g., breakfast, lunch, dessert) based on user preferences. Supports personalization for meal kit services.
+Collaborated on building an end-to-end pipeline for detecting Medicare fraud using unsupervised machine learning and explainable AI. Processed large-scale CMS healthcare billing datasets and applied clustering & anomaly detection to flag suspicious claims. Produced interpretable outputs to support audits, compliance checks and regulatory decision-making, helping safeguard healthcare systems against financial abuse.
 
 ---
-
-##  Fun Facts  
--  I’m a **farmer at heart** — I raise chickens, goats, and cattle, and I grow my own vegetables 🌿  
--  I'm a **go-getter** who believes in showing up, learning fast, and creating value  
--  Favorite read? _“Good Girls Don’t Get the Corner Office”_ — A must-read for every ambitious woman!
+Outside of data, I’m passionate about farming and lifelong learning.  
 
 ---
 
 ##  What I’m Looking For  
-- Remote roles in: Data Analytics, Research Analytics, Entry-level Data Science  
-- Collaborations with social impact teams, NGOs, or mission-driven tech companies  
-- Opportunities to grow in: Machine Learning, Data Science, and Applied AI  
+- Remote roles in: Data Analytics, Research Analytics and Applied Data Science  
+- Collaborations with social impact teams, NGOs or mission-driven tech companies  
+- Roles where I can apply analytics expertise (SPSS, Python, SQL, Power BI,Excel) while deepening skills in Machine Learning and Applied AI 
+ 
 
 ---
 
 ## Let’s Connect  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/abishangmueni/)    
-- ✉️ Reach me directly: mueniabishang@gmail.com 
+- [LinkedIn](https://www.linkedin.com/in/abishangmueni/)    
+- Email: mueniabishang@gmail.com 
 
 ---
 
