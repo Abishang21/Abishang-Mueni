@@ -1,7 +1,7 @@
 #  Hi there, I'm Abishang Mueni 👋 
 
 <div align="center">
-   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+BResearch+Specialist;Turning+Data+into+Actionable+Insights;" alt="Typing SVG" />
+   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Research+Specialist+Business+Intelligence;Turning+Data+into+Actionable+Insights;" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -14,35 +14,9 @@ I'm a data analyst and researcher with experience working on projects in public 
 
 Currently, I work at Home Builders Research Inc. (Las Vegas), where I analyze housing and construction datasets to help builders and developers make smarter decisions. Previously, I supported research and evaluation projects at Precise Trends Research & Consulting Ltd., working with partners like UNICEF, WFP, ILO, Oxfam and Marie Stopes Kenya to transform raw survey data into actionable insights for sustainable development.
 
-For me, the best insights aren’t just numbers they’re the ones that inform better policies, empower communities and create lasting impact. That belief drives my work every day.
-
 My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems and creating models that help businesses plan for the future.
 
 When I'm not working with data, I enjoy watching football, reading and spending quality time with my family. I love the "aha!" moment when data reveals something new and useful.
-
-##  Technical Skillset
-
-#### Data Analysis & Visualization
-<p>
-  <img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
-  <img src="https://img.shields.io/badge/Power% 20BI-Intermediate-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
-  <img src="https://img.shields.io/badge/Excel-Expert-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
-  <img src="https://img.shields.io/badge/Tableau-Intermediate-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau Skill Badge">
-</p>
-
- #### Programming & Automation
-<p>
-  <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
-</p>
-
-#### Business Intelligence & Analytics
-<p>
-  <img src="https://img.shields.io/badge/A%2FB%20Testing-Experienced-FF6B6B?style=flat" alt="A/B Testing Skill Badge">
-  <img src="https://img.shields.io/badge/Statistical%20Analysis-Experienced-4ECDC4?style=flat" alt="Statistical Analysis Skill Badge">
-  <img src="https://img.shields.io/badge/Predictive%20Modeling-Intermediate-45B7D1?style=flat" alt="Predictive Modeling Skill Badge">
-  <img src="https://img.shields.io/badge/KPI%20Development-Expert-96CEB4?style=flat" alt="KPI Development Skill Badge">
-</p>
-
 
 ##  Highlight Projects  
 Here are a few pinned projects you’ll find on my profile:
@@ -59,23 +33,28 @@ Collaborated on developing a data-driven solution to provide real-time and forec
 
 Collaborated on building an end-to-end pipeline for detecting Medicare fraud using unsupervised machine learning and explainable AI. Processed large-scale CMS healthcare billing datasets and applied clustering & anomaly detection to flag suspicious claims. Produced interpretable outputs to support audits, compliance checks and regulatory decision-making, helping safeguard healthcare systems against financial abuse.
 
----
-Outside of data, I’m passionate about farming and lifelong learning.  
+##  Technical Skillset
 
----
+#### Data Analysis & Visualization
+<p>
+  <img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
+  <img src="https://img.shields.io/badge/Power% 20BI-Intermediate-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
+  <img src="https://img.shields.io/badge/Excel-Expert-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
+  <img src="https://img.shields.io/badge/Tableau-Intermediate-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau Skill Badge">
+   <img src="https://img.shields.io/badge/SPSS-Expert-E97627?style=flat&logo=spss&logoColor=black" alt="SPSS Skill Badge">
+</p>
 
-##  What I’m Looking For  
-- Remote roles in: Data Analytics, Research Analytics and Applied Data Science  
-- Collaborations with social impact teams, NGOs or mission-driven tech companies  
-- Roles where I can apply analytics expertise (SPSS, Python, SQL, Power BI,Excel) while deepening skills in Machine Learning and Applied AI 
- 
+ #### Programming & Automation
+<p>
+  <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
+</p>
 
----
-
-## Let’s Connect  
-- [LinkedIn](https://www.linkedin.com/in/abishangmueni/)    
-- Email: mueniabishang@gmail.com 
-
----
+#### Business Intelligence & Analytics
+<p>
+  <img src="https://img.shields.io/badge/A%2FB%20Testing-Experienced-FF6B6B?style=flat" alt="A/B Testing Skill Badge">
+  <img src="https://img.shields.io/badge/Statistical%20Analysis-Experienced-4ECDC4?style=flat" alt="Statistical Analysis Skill Badge">
+  <img src="https://img.shields.io/badge/Predictive%20Modeling-Intermediate-45B7D1?style=flat" alt="Predictive Modeling Skill Badge">
+  <img src="https://img.shields.io/badge/KPI%20Development-Expert-96CEB4?style=flat" alt="KPI Development Skill Badge">
+</p>
 
 **Thanks for stopping by!** Let’s use data to build better solutions. 
