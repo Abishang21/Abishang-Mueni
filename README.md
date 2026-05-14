@@ -1,19 +1,13 @@
 #  Hi there, I'm Abishang Mueni 👋 
 
 <div align="center">
-   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;" alt="Typing SVG" />
+   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+BResearch+Specialist;Turning+Data+into+Actionable+Insights;" alt="Typing SVG" />
 </div>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abishang-mueni-6b1bb216a/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:mueniabishang.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
+  <a href="mailto:mueniabishang@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
-
- 
- **Data Analyst | Research Specialist | Data for Social Impact**  
-🌍 Working remotely with clients worldwide  
-
----
 
 ## About Me  
 I'm a data analyst and researcher with experience working on projects in public health, gender & disability inclusion, food security, agriculture and housing.
@@ -22,28 +16,33 @@ Currently, I work at Home Builders Research Inc. (Las Vegas), where I analyze ho
 
 For me, the best insights aren’t just numbers they’re the ones that inform better policies, empower communities and create lasting impact. That belief drives my work every day.
 
----
+My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems and creating models that help businesses plan for the future.
 
-My Superpowers:
-- Transforming messy datasets into clean, reliable insights using Excel, Python (Pandas) and SQL
+When I'm not working with data, I enjoy watching football, reading and spending quality time with my family. I love the "aha!" moment when data reveals something new and useful.
 
-- Visualizing trends and stories through Power BI, Tableau, and Excel
+##  Technical Skillset
 
-- Applying machine learning techniques (forecasting, classification, anomaly detection)
+#### Data Analysis & Visualization
+<p>
+  <img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
+  <img src="https://img.shields.io/badge/Power% 20BI-Intermediate-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
+  <img src="https://img.shields.io/badge/Excel-Expert-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
+  <img src="https://img.shields.io/badge/Tableau-Intermediate-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau Skill Badge">
+</p>
 
-- Coordinating large-scale, multi-country data collection and ensuring high data quality
+ #### Programming & Automation
+<p>
+  <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
+</p>
 
----
+#### Business Intelligence & Analytics
+<p>
+  <img src="https://img.shields.io/badge/A%2FB%20Testing-Experienced-FF6B6B?style=flat" alt="A/B Testing Skill Badge">
+  <img src="https://img.shields.io/badge/Statistical%20Analysis-Experienced-4ECDC4?style=flat" alt="Statistical Analysis Skill Badge">
+  <img src="https://img.shields.io/badge/Predictive%20Modeling-Intermediate-45B7D1?style=flat" alt="Predictive Modeling Skill Badge">
+  <img src="https://img.shields.io/badge/KPI%20Development-Expert-96CEB4?style=flat" alt="KPI Development Skill Badge">
+</p>
 
-##  Tech & Tools
-
-- **Languages & Tools:** Python, SQL, Excel, Power BI, Jupyter Notebook, Tableau,SPSS, Git/GitHub  
-- **Libraries & Frameworks:** Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn  
-- **Data Collection:** KoboToolbox, MS Forms, ODK(Open Data Kit) 
-- **Collaboration:** Trello, ClickUp, Slack ,Google Workspace,MS Teams
-- **ML & Stats:** Linear/Logistic Regression, A/B Testing,Time-Series Forecasting, Model Validation  
-
----
 
 ##  Highlight Projects  
 Here are a few pinned projects you’ll find on my profile:
