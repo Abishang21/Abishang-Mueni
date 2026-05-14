@@ -2,6 +2,16 @@
 
 ![5](https://github.com/user-attachments/assets/cdb4bca9-fb3c-4325-bb44-d86406d72b13)
 
+<div align="center">
+   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;[Your+Specialty+Here];[Your+Experience+or+Tagline]" alt="Typing SVG" />
+</div>
+
+<p align="center">
+  <a href="https://linkedin.com/in/your-profile-url"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:mueniabishang.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
+</p>
+
+ 
  **Data Analyst | Research Specialist | Data for Social Impact**  
 🌍 Working remotely with clients worldwide  
 
