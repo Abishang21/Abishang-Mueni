@@ -1,7 +1,7 @@
 #  Hi there, I'm Abishang Mueni 👋 
 
 <div align="center">
-   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Research+Specialist+Business+Intelligence;Turning+Data+into+Actionable+Insights;" alt="Typing SVG" />
+   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Research+Specialist;Turning+Data+into+Actionable+Insights;" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -37,8 +37,8 @@ Collaborated on building an end-to-end pipeline for detecting Medicare fraud usi
 
 #### Data Analysis & Visualization
 <p>
-  <img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
-  <img src="https://img.shields.io/badge/Power% 20BI-Intermediate-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
+   <img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
+  <img src="https://img.shields.io/badge/Power%20BI-Intermediate-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
   <img src="https://img.shields.io/badge/Excel-Expert-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
   <img src="https://img.shields.io/badge/Tableau-Intermediate-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau Skill Badge">
    <img src="https://img.shields.io/badge/SPSS-Expert-E97627?style=flat&logo=spss&logoColor=black" alt="SPSS Skill Badge">
