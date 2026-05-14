@@ -21,9 +21,11 @@ When I'm not working with data, I enjoy watching football, reading and spending 
 ##  Highlight Projects  
 Here are a few pinned projects you’ll find on my profile:
 
-[Aircraft Risk and Safety Analysis](https://github.com/Abishang21/Aircraft-Risks-Analysis)
+[Inventory Intelligence System](https://github.com/Abishang21/Inventory-Intelligence-System)
 
-Conducted analysis of global aviation accident data to uncover safety risks and guide aircraft acquisition decisions. Processed accident records with Python (Pandas, Matplotlib, Seaborn) and built Tableau dashboards highlighting high-risk aircraft models, accident-prone flight phases and weather-related vulnerabilities. Findings equipped leadership with data-driven recommendations for safer fleet investments and proactive risk management.
+Built a data-driven inventory intelligence system using Excel and Power BI for a Kenyan beauty retail business scenario inspired by real operational challenges discussed by Murugi Munyi (The Lip Tribe) on the Founder Diaries Podcast.
+
+Developed a simulated dataset and implemented run rate analysis, stock classification and restock intelligence to optimize inventory decisions. Identified Ksh 435K in capital tied up in slow moving stock and flagged high risk stockouts across fast moving SKUs, demonstrating how SMEs can improve cashflow and reduce lost sales through analytics.
 
 [MaliYaLeo: Market-Price-Planning-Assistant-for-Kenyan-Consumers-and-Farmers](https://github.com/Abishang21/MaliYaLeo)
 
